@@ -1,0 +1,12 @@
+## Procedures:
+
+18/04/21 data cleaning: 
+
+    •	Delete data's part with too many “na”, blank (rows, columns, cells) etc;
+    •	Populated part data blank cell with 0;
+
+20/04/21 data store:
+
+    * load in postgresql;
+    * extracted out into pandas, sorted, cutted when necessary, make it into json files.
+    * finally loaded the json files into MongoDB.
