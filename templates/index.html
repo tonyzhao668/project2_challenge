@@ -10,69 +10,23 @@
     crossorigin=""/>
 
     <!-- Our CSS -->
+    <!-- <link rel="stylesheet" type="text/css" href="static/css/style.css"> -->
     <link rel="stylesheet" type="text/css" href="static/css/style.css">
-
+   
   </head>
   <body>
-    <h1>Hi Tony</h1>
     
-    <div class="expdata"> 
-      <h3>expdata</h3>    
-        <ul>
-      {% for e in expdata %} 
-      <li>{{e}}</li>
-      {% endfor %} 
-        </ul>   
-    </div>
-    
-    <div class="impdata">
-      <h3>impdata</h3>
-      <ul>
-        {% for i in impdata %} 
-        <li>{{i}}</li>
-        {% endfor %} 
-          </ul>   
-    </div>
-
-    <div class="etop25">
-      <h3>et25</h3>
-      <ul>
-        {% for e25 in top25expdata %} 
-        <li>{{e25}}</li>
-        {% endfor %} 
-        </ul>   
-        
-    </div>
-    <div class="itop25">
-      <h3>it25</h3>
-      <ul>
-        {% for i25 in top25impdata %} 
-        <li>{{i25}}</li>
-        {% endfor %} 
-      </ul>      
-    </div>
-
-    <div class="compexport">
-      <h3>complete export</h3>
-      <ul>
-        {% for c in completeexport %} 
-        <li>{{c}}</li>
-        {% endfor %} 
-      </ul>      
-    </div>
-
-    <div class="compimport">
-      <h3>complete import</h3>
-      <ul>
-        {% for ci in completeimport %} 
-        <li>{{ci}}</li>
-        {% endfor %} 
-      </ul>      
-    </div>
+    <div class = "home"></div>
+    <div id="my_dataviz"></div>
 
     <!-- The div where we will inject our map -->
     <div id="map"></div>
 
+
+    <h1>Hi Tony</h1>
+    
+    
+    
 
     <!-- Leaflet JS-->
     <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
@@ -80,6 +34,12 @@
     crossorigin=""></script>
     <!-- d3 JS -->
     <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="//d3js.org/queue.v1.min.js"></script>
+    <script src="//d3js.org/topojson.v1.min.js"></script>
+    <!--<script type="text/javascript" src="url_for('static', filename='static/js/logic.js')"></script>-->
+
+    <!--I added libraries-->
+    <script src="https://cdn.jsdelivr.net/gh/holtzy/D3-graph-gallery@master/LIB/d3-scale-radial.js"></script>
 
     <!-- Leaflet-Choropleth JavaScript -->
     <script type="text/javascript" src="static/js/choropleth.js"></script>

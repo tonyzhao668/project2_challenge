@@ -1,4 +1,4 @@
-from flask import Flask, render_template, redirect
+from flask import Flask, render_template, redirect, jsonify
 import pymongo
 
 # Create an instance of Flask
@@ -15,23 +15,45 @@ db = client.project2DB
 
 # Route to render index.html template using data from Mongo
 @app.route("/")
-def home():
+def welcome():
 
-    # deliver the data to index.html
-    expdata = list(db.exports.find())
-    impdata = list(db.imports.find())
-    top25expdata = list(db.top25exports.find())
-    top25impdata = list(db.top25imports.find())
-    completeexport = list(db.completeexports.find())
-    completeimport = list(db.completeimports.find())
-
-    print(expdata)
+    return (
+        f"Welcome to Tony's Project2 API<br/>"
         
-    return render_template("index.html", expdata = expdata, impdata = impdata, \
-         top25expdata = top25expdata, top25impdata = top25impdata, \
-             completeexport = completeexport, completeimport = completeimport)
-             
-    # return render_template("index.html", expdata = expdata)
+    )
+    
+@app.route("/api/v1.0/expdata")
+def expdata():
+    expdata = tuple(db.exports.find())
+    return jsonify(expdata)
+
+
+@app.route("/api/v1.0/impdata")
+def impdata():
+    impdata = list(db.imports.find())
+    return impdata
+
+@app.route("/api/v1.0/top25expdata")
+def top25expdata():
+    top25expdata = list(db.top25exports.find())
+    return top25expdata
+
+
+@app.route("/api/v1.0/top25impdata")
+def top25impdata():
+    top25impdata = list(db.top25imports.find())
+    return top25impdata
+
+@app.route("/api/v1.0/completeexport")
+def completeexport():
+    completeexport = list(db.completeexports.find())
+    return completeexport
+
+
+@app.route("/api/v1.0/completeimport")
+def completeimport():
+    completeimport = list(db.completeimports.find())
+    return completeimport
 
 if __name__ == "__main__":
     app.run(debug=True)

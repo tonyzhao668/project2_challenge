@@ -1,0 +1,5149 @@
+[{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b69"
+  },
+  "y_1987": [
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 12133.3
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 6081.37
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 3326.29
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 2987.15
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 2267.35
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 1877.4
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 1472.86
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 1447.48
+    },
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 1350.18
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 1349.69
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 1166.98
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 1073.31
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 1051.6
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 990.832
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 888.719
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 791.18
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 737.783
+    },
+    {
+      "country": "Russian Federation (f)",
+      "iso_a3": "RUS",
+      "value": 661.536
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 461.993
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 442.02
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 398.432
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 336.228
+    },
+    {
+      "country": "Sweden",
+      "iso_a3": "SWE",
+      "value": 219.462
+    },
+    {
+      "country": "Fiji",
+      "iso_a3": "FJI",
+      "value": 190.185
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 171.752
+    },
+    {
+      "country": "Greece",
+      "iso_a3": "GRC",
+      "value": 111.771
+    },
+    {
+      "country": "Mexico",
+      "iso_a3": "MEX",
+      "value": 60.009
+    },
+    {
+      "country": "Ireland",
+      "iso_a3": "IRL",
+      "value": 33.793
+    },
+    {
+      "country": "Chile",
+      "iso_a3": "CHL",
+      "value": 23.962
+    },
+    {
+      "country": "Norfolk Island",
+      "iso_a3": "NFK",
+      "value": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b6a"
+  },
+  "y_1988": [
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 13672.8
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 6128.28
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 3483.12
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 3020.32
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 2313.14
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 2216.47
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 1754.16
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 1698.59
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 1484.22
+    },
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 1462.1
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 1140.19
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 1100.81
+    },
+    {
+      "country": "Russian Federation (f)",
+      "iso_a3": "RUS",
+      "value": 1096.94
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 1090.17
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 1088.23
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 998.292
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 925.758
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 832.387
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 603.677
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 502.741
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 502.068
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 412.499
+    },
+    {
+      "country": "Sweden",
+      "iso_a3": "SWE",
+      "value": 239.589
+    },
+    {
+      "country": "Fiji",
+      "iso_a3": "FJI",
+      "value": 233.731
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 181.683
+    },
+    {
+      "country": "Greece",
+      "iso_a3": "GRC",
+      "value": 109.807
+    },
+    {
+      "country": "Mexico",
+      "iso_a3": "MEX",
+      "value": 71.598
+    },
+    {
+      "country": "Ireland",
+      "iso_a3": "IRL",
+      "value": 42.181
+    },
+    {
+      "country": "Chile",
+      "iso_a3": "CHL",
+      "value": 21.557
+    },
+    {
+      "country": "Norfolk Island",
+      "iso_a3": "NFK",
+      "value": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b6b"
+  },
+  "y_1989": [
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 14617.3
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 7081.44
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 3814.25
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 3305.38
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 2829.3
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 2368.55
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 1987.17
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 1783.69
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 1602.49
+    },
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 1485.17
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 1318.78
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 1290.22
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 1185.25
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 1156.09
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 1056.02
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 998.914
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 949.162
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 866.067
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 750.134
+    },
+    {
+      "country": "Russian Federation (f)",
+      "iso_a3": "RUS",
+      "value": 695.084
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 557.105
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 505.698
+    },
+    {
+      "country": "Fiji",
+      "iso_a3": "FJI",
+      "value": 272.794
+    },
+    {
+      "country": "Sweden",
+      "iso_a3": "SWE",
+      "value": 241.882
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 139.436
+    },
+    {
+      "country": "Mexico",
+      "iso_a3": "MEX",
+      "value": 133.429
+    },
+    {
+      "country": "Greece",
+      "iso_a3": "GRC",
+      "value": 97.778
+    },
+    {
+      "country": "Ireland",
+      "iso_a3": "IRL",
+      "value": 52.156
+    },
+    {
+      "country": "Chile",
+      "iso_a3": "CHL",
+      "value": 36.476
+    },
+    {
+      "country": "Wallis & Futuna Island",
+      "iso_a3": "WLF",
+      "value": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b6c"
+  },
+  "y_1990": [
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 16599.5
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 7782.91
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 3810.09
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 3494.44
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 3412.02
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 3242.74
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 2146.38
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 2079.8
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 1844.29
+    },
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 1606.5
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 1458.63
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 1434.44
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 1400.99
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 1166.68
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 1073.11
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 1051.17
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 1033.63
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 916.63
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 863.479
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 563.904
+    },
+    {
+      "country": "Russian Federation (f)",
+      "iso_a3": "RUS",
+      "value": 495.202
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 475.929
+    },
+    {
+      "country": "Fiji",
+      "iso_a3": "FJI",
+      "value": 312.112
+    },
+    {
+      "country": "Sweden",
+      "iso_a3": "SWE",
+      "value": 214.459
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 206.099
+    },
+    {
+      "country": "Mexico",
+      "iso_a3": "MEX",
+      "value": 127.225
+    },
+    {
+      "country": "Greece",
+      "iso_a3": "GRC",
+      "value": 85.706
+    },
+    {
+      "country": "Chile",
+      "iso_a3": "CHL",
+      "value": 56.98
+    },
+    {
+      "country": "Ireland",
+      "iso_a3": "IRL",
+      "value": 49.372
+    },
+    {
+      "country": "Armenia",
+      "iso_a3": "ARM",
+      "value": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b6d"
+  },
+  "y_1991": [
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 17284.3
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 7097.02
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 3969.47
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 3801.41
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 3753.45
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 3594.09
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 2778.86
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 2700.73
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 1991.7
+    },
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 1645.35
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 1585.94
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 1545.2
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 1167.61
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 1135.43
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 1095.08
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 1069.22
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 1043.43
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 1017.55
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 813.251
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 627.125
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 626.9
+    },
+    {
+      "country": "Fiji",
+      "iso_a3": "FJI",
+      "value": 312.083
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 277.342
+    },
+    {
+      "country": "Russian Federation (f)",
+      "iso_a3": "RUS",
+      "value": 269.43
+    },
+    {
+      "country": "Sweden",
+      "iso_a3": "SWE",
+      "value": 236.727
+    },
+    {
+      "country": "Mexico",
+      "iso_a3": "MEX",
+      "value": 154.92
+    },
+    {
+      "country": "Greece",
+      "iso_a3": "GRC",
+      "value": 81.544
+    },
+    {
+      "country": "Chile",
+      "iso_a3": "CHL",
+      "value": 52.638
+    },
+    {
+      "country": "Ireland",
+      "iso_a3": "IRL",
+      "value": 45.92
+    },
+    {
+      "country": "Azerbaijan",
+      "iso_a3": "AZE",
+      "value": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b6e"
+  },
+  "y_1992": [
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 18157.4
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 7067.14
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 4525.26
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 4514.49
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 4328.7
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 4167.04
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 3328.08
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 3123.38
+    },
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 2518.08
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 2210.33
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 1781.83
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 1490.66
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 1482.37
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 1382.44
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 1090.01
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 1054.83
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 1030.48
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 1028.42
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 708.611
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 638.152
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 525.862
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 421.493
+    },
+    {
+      "country": "Fiji",
+      "iso_a3": "FJI",
+      "value": 393.424
+    },
+    {
+      "country": "Russian Federation (f)",
+      "iso_a3": "RUS",
+      "value": 230.782
+    },
+    {
+      "country": "Sweden",
+      "iso_a3": "SWE",
+      "value": 201.287
+    },
+    {
+      "country": "Mexico",
+      "iso_a3": "MEX",
+      "value": 136.744
+    },
+    {
+      "country": "Chile",
+      "iso_a3": "CHL",
+      "value": 92.669
+    },
+    {
+      "country": "Greece",
+      "iso_a3": "GRC",
+      "value": 74.855
+    },
+    {
+      "country": "Ireland",
+      "iso_a3": "IRL",
+      "value": 56.465
+    },
+    {
+      "country": "Azerbaijan",
+      "iso_a3": "AZE",
+      "value": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b6f"
+  },
+  "y_1993": [
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 19059.2
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 7471.26
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 5242.38
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 5184.93
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 4732.69
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 4061.57
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 3665.04
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 3315.77
+    },
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 2910.38
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 2535.71
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 2385.75
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 1661.63
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 1608.94
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 1442.26
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 1233.22
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 1223.47
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 1024.31
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 864.995
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 850.516
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 489.895
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 489.064
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 479.86
+    },
+    {
+      "country": "Fiji",
+      "iso_a3": "FJI",
+      "value": 415.753
+    },
+    {
+      "country": "Russian Federation (f)",
+      "iso_a3": "RUS",
+      "value": 330.873
+    },
+    {
+      "country": "Sweden",
+      "iso_a3": "SWE",
+      "value": 219.797
+    },
+    {
+      "country": "Mexico",
+      "iso_a3": "MEX",
+      "value": 207.231
+    },
+    {
+      "country": "Chile",
+      "iso_a3": "CHL",
+      "value": 119.916
+    },
+    {
+      "country": "Greece",
+      "iso_a3": "GRC",
+      "value": 78.156
+    },
+    {
+      "country": "Ireland",
+      "iso_a3": "IRL",
+      "value": 77.571
+    },
+    {
+      "country": "Azerbaijan",
+      "iso_a3": "AZE",
+      "value": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b70"
+  },
+  "y_1994": [
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 19707
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 7045.99
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 6084.61
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 6045.16
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 4920.41
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 4197.26
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 3781.1
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 3495.37
+    },
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 3338.67
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 2953
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 2717.2
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 2063.16
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 1673.84
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 1427.48
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 1390.07
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 1172.64
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 1000.29
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 990.788
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 898.599
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 718.245
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 545.085
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 512.512
+    },
+    {
+      "country": "Fiji",
+      "iso_a3": "FJI",
+      "value": 458.215
+    },
+    {
+      "country": "Russian Federation (f)",
+      "iso_a3": "RUS",
+      "value": 266.047
+    },
+    {
+      "country": "Sweden",
+      "iso_a3": "SWE",
+      "value": 235.08
+    },
+    {
+      "country": "Chile",
+      "iso_a3": "CHL",
+      "value": 149.676
+    },
+    {
+      "country": "Mexico",
+      "iso_a3": "MEX",
+      "value": 141.235
+    },
+    {
+      "country": "Ireland",
+      "iso_a3": "IRL",
+      "value": 102.881
+    },
+    {
+      "country": "Greece",
+      "iso_a3": "GRC",
+      "value": 61.63
+    },
+    {
+      "country": "Azerbaijan",
+      "iso_a3": "AZE",
+      "value": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b71"
+  },
+  "y_1995": [
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 20497
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 7662.29
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 7591.63
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 7138.54
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 4777.71
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 4560.68
+    },
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 4124.02
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 3945.09
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 3914.79
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 3720.59
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 3022.66
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 2280.7
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 1803.13
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 1611.96
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 1525.11
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 1291.71
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 1237.4
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 954.742
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 946.615
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 906.733
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 778.015
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 742.255
+    },
+    {
+      "country": "Fiji",
+      "iso_a3": "FJI",
+      "value": 550.514
+    },
+    {
+      "country": "Sweden",
+      "iso_a3": "SWE",
+      "value": 324.508
+    },
+    {
+      "country": "Chile",
+      "iso_a3": "CHL",
+      "value": 168.802
+    },
+    {
+      "country": "Ireland",
+      "iso_a3": "IRL",
+      "value": 134.777
+    },
+    {
+      "country": "Russian Federation (f)",
+      "iso_a3": "RUS",
+      "value": 134.505
+    },
+    {
+      "country": "Mexico",
+      "iso_a3": "MEX",
+      "value": 104.797
+    },
+    {
+      "country": "Greece",
+      "iso_a3": "GRC",
+      "value": 90.625
+    },
+    {
+      "country": "Azerbaijan",
+      "iso_a3": "AZE",
+      "value": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b72"
+  },
+  "y_1996": [
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 19284.6
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 8823.24
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 8232.9
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 7953.71
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 4740.53
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 4442.27
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 4265.36
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 4106.27
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 4025.5
+    },
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 3967.39
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 3126.61
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 2213.03
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 1775.17
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 1633.89
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 1577.33
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 1515.74
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 1413.82
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 1200.27
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 1047.33
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 1040.49
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 840.312
+    },
+    {
+      "country": "Fiji",
+      "iso_a3": "FJI",
+      "value": 595.858
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 517.486
+    },
+    {
+      "country": "Sweden",
+      "iso_a3": "SWE",
+      "value": 340.901
+    },
+    {
+      "country": "Chile",
+      "iso_a3": "CHL",
+      "value": 186.378
+    },
+    {
+      "country": "Russian Federation (f)",
+      "iso_a3": "RUS",
+      "value": 154.195
+    },
+    {
+      "country": "Ireland",
+      "iso_a3": "IRL",
+      "value": 152.24
+    },
+    {
+      "country": "Mexico",
+      "iso_a3": "MEX",
+      "value": 129.337
+    },
+    {
+      "country": "Greece",
+      "iso_a3": "GRC",
+      "value": 95.957
+    },
+    {
+      "country": "Azerbaijan",
+      "iso_a3": "AZE",
+      "value": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b73"
+  },
+  "y_1997": [
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 21444.4
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 11933.2
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 7575.45
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 7181.08
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 5106.12
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 5099.48
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 5080.13
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 4687.7
+    },
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 4326.83
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 3789.78
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 2985.94
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 2050.86
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 2035.08
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 1795.14
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 1690.29
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 1519.74
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 1416.38
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 1373.17
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 1298.21
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 1271.14
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 1152.07
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 1085.91
+    },
+    {
+      "country": "Fiji",
+      "iso_a3": "FJI",
+      "value": 661.416
+    },
+    {
+      "country": "Sweden",
+      "iso_a3": "SWE",
+      "value": 367.678
+    },
+    {
+      "country": "Russian Federation (f)",
+      "iso_a3": "RUS",
+      "value": 275.447
+    },
+    {
+      "country": "Mexico",
+      "iso_a3": "MEX",
+      "value": 224.596
+    },
+    {
+      "country": "Chile",
+      "iso_a3": "CHL",
+      "value": 192.438
+    },
+    {
+      "country": "Ireland",
+      "iso_a3": "IRL",
+      "value": 192.361
+    },
+    {
+      "country": "Greece",
+      "iso_a3": "GRC",
+      "value": 130.811
+    },
+    {
+      "country": "Azerbaijan",
+      "iso_a3": "AZE",
+      "value": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b74"
+  },
+  "y_1998": [
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 20307.4
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 12379
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 7771.3
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 6890.12
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 6783.78
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 4915.47
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 4688.46
+    },
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 4472.96
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 4099.75
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 3262.53
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 2673.76
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 2207.3
+    },
+    {
+      "country": "India",
+      "iso_a3": "IND",
+      "value": 2157.53
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 1899.26
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 1737.75
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 1673.98
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 1402.54
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 1333.08
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 1229.34
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 1201.87
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 1196.84
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 1181.27
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 779.261
+    },
+    {
+      "country": "Fiji",
+      "iso_a3": "FJI",
+      "value": 722.001
+    },
+    {
+      "country": "Vietnam",
+      "iso_a3": "VNM",
+      "value": 501.778
+    },
+    {
+      "country": "Sweden",
+      "iso_a3": "SWE",
+      "value": 448.985
+    },
+    {
+      "country": "Ireland",
+      "iso_a3": "IRL",
+      "value": 340.667
+    },
+    {
+      "country": "Mexico",
+      "iso_a3": "MEX",
+      "value": 339.756
+    },
+    {
+      "country": "Chile",
+      "iso_a3": "CHL",
+      "value": 240.281
+    },
+    {
+      "country": "Norway",
+      "iso_a3": "NOR",
+      "value": 237.511
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b75"
+  },
+  "y_1999": [
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 22206.2
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 13965.4
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 8946.61
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 8298.13
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 7687.54
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 6695.98
+    },
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 5668.26
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 5200.98
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 4354.42
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 3440.44
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 2987.68
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 2185.31
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 2039.36
+    },
+    {
+      "country": "India",
+      "iso_a3": "IND",
+      "value": 2034.41
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 1886.1
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 1702.37
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 1561.34
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 1498.81
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 1336.31
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 1251.88
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 1212.87
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 1194.24
+    },
+    {
+      "country": "Fiji",
+      "iso_a3": "FJI",
+      "value": 810.618
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 641.184
+    },
+    {
+      "country": "Vietnam",
+      "iso_a3": "VNM",
+      "value": 550.458
+    },
+    {
+      "country": "Sweden",
+      "iso_a3": "SWE",
+      "value": 470.076
+    },
+    {
+      "country": "Ireland",
+      "iso_a3": "IRL",
+      "value": 311.613
+    },
+    {
+      "country": "Mexico",
+      "iso_a3": "MEX",
+      "value": 269.77
+    },
+    {
+      "country": "Norway",
+      "iso_a3": "NOR",
+      "value": 259.768
+    },
+    {
+      "country": "Russian Federation (f)",
+      "iso_a3": "RUS",
+      "value": 237.136
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b76"
+  },
+  "y_2000": [
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 26806.9
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 17337
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 10226
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 9873.36
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 8699.32
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 8375.96
+    },
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 7915.65
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 6335.79
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 5246.65
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 4210.88
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 3469.53
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 2792.21
+    },
+    {
+      "country": "India",
+      "iso_a3": "IND",
+      "value": 2628.5
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 2414.97
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 2357.19
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 2349.22
+    },
+    {
+      "country": "Saudi Arabia",
+      "iso_a3": "SAU",
+      "value": 2210.43
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 2159.68
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 1670
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 1525.55
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 1436.33
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 1362.09
+    },
+    {
+      "country": "United Arab Emirates",
+      "iso_a3": "ARE",
+      "value": 1355.32
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 1099.85
+    },
+    {
+      "country": "Fiji",
+      "iso_a3": "FJI",
+      "value": 810.857
+    },
+    {
+      "country": "Vietnam",
+      "iso_a3": "VNM",
+      "value": 687.069
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 676.02
+    },
+    {
+      "country": "Brazil",
+      "iso_a3": "BRA",
+      "value": 627.12
+    },
+    {
+      "country": "Ireland",
+      "iso_a3": "IRL",
+      "value": 501.845
+    },
+    {
+      "country": "Sweden",
+      "iso_a3": "SWE",
+      "value": 431.425
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b77"
+  },
+  "y_2001": [
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 25882.4
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 16547.5
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 10925.2
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 10329.7
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 9407.05
+    },
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 9245.1
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 7493.75
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 5619.51
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 5253.94
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 4291.7
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 3524.25
+    },
+    {
+      "country": "India",
+      "iso_a3": "IND",
+      "value": 3068.63
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 2900.75
+    },
+    {
+      "country": "Saudi Arabia",
+      "iso_a3": "SAU",
+      "value": 2611.12
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 2464.89
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 2385.99
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 2282.99
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 1860.18
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 1698.36
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 1555.98
+    },
+    {
+      "country": "United Arab Emirates",
+      "iso_a3": "ARE",
+      "value": 1436.17
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 1405.55
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 1308.97
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 979.67
+    },
+    {
+      "country": "Vietnam",
+      "iso_a3": "VNM",
+      "value": 709.361
+    },
+    {
+      "country": "Fiji",
+      "iso_a3": "FJI",
+      "value": 675.384
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 671.522
+    },
+    {
+      "country": "Ireland",
+      "iso_a3": "IRL",
+      "value": 650.579
+    },
+    {
+      "country": "Brazil",
+      "iso_a3": "BRA",
+      "value": 553.102
+    },
+    {
+      "country": "Mexico",
+      "iso_a3": "MEX",
+      "value": 502.229
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b78"
+  },
+  "y_2002": [
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 24777.7
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 15157.3
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 11628.6
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 11116.8
+    },
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 10665.7
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 10242.9
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 7090.34
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 4843.05
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 4726.88
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 3942.69
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 3250.28
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 3166
+    },
+    {
+      "country": "India",
+      "iso_a3": "IND",
+      "value": 3106.29
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 2558.48
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 2337.77
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 2110.67
+    },
+    {
+      "country": "Saudi Arabia",
+      "iso_a3": "SAU",
+      "value": 2024.16
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 1722.29
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 1578.21
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 1562.39
+    },
+    {
+      "country": "United Arab Emirates",
+      "iso_a3": "ARE",
+      "value": 1514.75
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 1229.16
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 1175.6
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 934.956
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 861.285
+    },
+    {
+      "country": "Vietnam",
+      "iso_a3": "VNM",
+      "value": 694.877
+    },
+    {
+      "country": "Fiji",
+      "iso_a3": "FJI",
+      "value": 692.503
+    },
+    {
+      "country": "Ireland",
+      "iso_a3": "IRL",
+      "value": 593.696
+    },
+    {
+      "country": "Brazil",
+      "iso_a3": "BRA",
+      "value": 509.592
+    },
+    {
+      "country": "Mexico",
+      "iso_a3": "MEX",
+      "value": 458.701
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b79"
+  },
+  "y_2003": [
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 22829.3
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 13967.2
+    },
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 12385.7
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 11210.1
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 9909.16
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 9733.52
+    },
+    {
+      "country": "India",
+      "iso_a3": "IND",
+      "value": 5585.16
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 5420.02
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 4343.21
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 4209.57
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 3981.91
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 3468.96
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 3112.76
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 2384.31
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 2296.03
+    },
+    {
+      "country": "Saudi Arabia",
+      "iso_a3": "SAU",
+      "value": 2012.16
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 1820.71
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 1757.48
+    },
+    {
+      "country": "United Arab Emirates",
+      "iso_a3": "ARE",
+      "value": 1657.99
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 1599.25
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 1379.59
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 1063.56
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 1050.74
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 782.843
+    },
+    {
+      "country": "Vietnam",
+      "iso_a3": "VNM",
+      "value": 724.485
+    },
+    {
+      "country": "Ireland",
+      "iso_a3": "IRL",
+      "value": 692.933
+    },
+    {
+      "country": "Brazil",
+      "iso_a3": "BRA",
+      "value": 620.677
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 617.429
+    },
+    {
+      "country": "Fiji",
+      "iso_a3": "FJI",
+      "value": 582.615
+    },
+    {
+      "country": "Sweden",
+      "iso_a3": "SWE",
+      "value": 468.37
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b7a"
+  },
+  "y_2004": [
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 28090.1
+    },
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 15815.6
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 13946.4
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 12606.2
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 11096.3
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 9817.55
+    },
+    {
+      "country": "India",
+      "iso_a3": "IND",
+      "value": 7097.27
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 5956.14
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 5336.03
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 4558.25
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 4294.25
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 4267.84
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 3868.63
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 2532.71
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 2371.54
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 2351.48
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 1938.12
+    },
+    {
+      "country": "Saudi Arabia",
+      "iso_a3": "SAU",
+      "value": 1833.28
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 1786.54
+    },
+    {
+      "country": "United Arab Emirates",
+      "iso_a3": "ARE",
+      "value": 1767.42
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 1508.47
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 1472.18
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 1021.6
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 986.001
+    },
+    {
+      "country": "Vietnam",
+      "iso_a3": "VNM",
+      "value": 930.19
+    },
+    {
+      "country": "Brazil",
+      "iso_a3": "BRA",
+      "value": 781.083
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 743.501
+    },
+    {
+      "country": "Mexico",
+      "iso_a3": "MEX",
+      "value": 738.844
+    },
+    {
+      "country": "Ireland",
+      "iso_a3": "IRL",
+      "value": 687.968
+    },
+    {
+      "country": "Fiji",
+      "iso_a3": "FJI",
+      "value": 554.397
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b7b"
+  },
+  "y_2005": [
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 34162.1
+    },
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 21298.7
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 14965.1
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 13381.7
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 12976.7
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 12414.1
+    },
+    {
+      "country": "India",
+      "iso_a3": "IND",
+      "value": 8728.73
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 7162.39
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 6391.03
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 4924.02
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 4810.68
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 4486.21
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 3808.61
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 3108.17
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 2518.66
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 2429.82
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 2400.51
+    },
+    {
+      "country": "Saudi Arabia",
+      "iso_a3": "SAU",
+      "value": 2226.73
+    },
+    {
+      "country": "United Arab Emirates",
+      "iso_a3": "ARE",
+      "value": 2193.21
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 1804.38
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 1674.11
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 1624.21
+    },
+    {
+      "country": "Vietnam",
+      "iso_a3": "VNM",
+      "value": 1188.87
+    },
+    {
+      "country": "Brazil",
+      "iso_a3": "BRA",
+      "value": 1158.21
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 1151.27
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 1065.65
+    },
+    {
+      "country": "Mexico",
+      "iso_a3": "MEX",
+      "value": 881.362
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 834.185
+    },
+    {
+      "country": "Sweden",
+      "iso_a3": "SWE",
+      "value": 697.013
+    },
+    {
+      "country": "Ireland",
+      "iso_a3": "IRL",
+      "value": 658.141
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b7c"
+  },
+  "y_2006": [
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 35439.6
+    },
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 26520.4
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 15797.3
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 15156.6
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 13216.7
+    },
+    {
+      "country": "India",
+      "iso_a3": "IND",
+      "value": 11848.9
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 11835.4
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 7808.18
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 6720.22
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 5109.36
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 5027.95
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 4716.87
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 4441.68
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 3482.99
+    },
+    {
+      "country": "United Arab Emirates",
+      "iso_a3": "ARE",
+      "value": 2816.51
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 2661.92
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 2651.99
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 2639.6
+    },
+    {
+      "country": "Saudi Arabia",
+      "iso_a3": "SAU",
+      "value": 2113.08
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 2021.79
+    },
+    {
+      "country": "Vietnam",
+      "iso_a3": "VNM",
+      "value": 1956.27
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 1896.34
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 1872.73
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 1777.56
+    },
+    {
+      "country": "Finland",
+      "iso_a3": "FIN",
+      "value": 1697.66
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 1470.32
+    },
+    {
+      "country": "Spain",
+      "iso_a3": "ESP",
+      "value": 1409.23
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 1276.15
+    },
+    {
+      "country": "Brazil",
+      "iso_a3": "BRA",
+      "value": 1160.1
+    },
+    {
+      "country": "Mexico",
+      "iso_a3": "MEX",
+      "value": 891.695
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b7d"
+  },
+  "y_2007": [
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 37434.7
+    },
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 31605.9
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 16492.6
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 16366.6
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 13441.9
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 13202.3
+    },
+    {
+      "country": "India",
+      "iso_a3": "IND",
+      "value": 11976
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 9440.61
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 6979.07
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 5600.86
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 5043.58
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 4948.6
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 4559.42
+    },
+    {
+      "country": "United Arab Emirates",
+      "iso_a3": "ARE",
+      "value": 3694.88
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 3358.61
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 2860.76
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 2696.1
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 2528.5
+    },
+    {
+      "country": "Saudi Arabia",
+      "iso_a3": "SAU",
+      "value": 2440.1
+    },
+    {
+      "country": "Vietnam",
+      "iso_a3": "VNM",
+      "value": 2288.88
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 2181.44
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 1966.27
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 1763.46
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 1691.62
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 1575.11
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 1487.75
+    },
+    {
+      "country": "Brazil",
+      "iso_a3": "BRA",
+      "value": 1337.52
+    },
+    {
+      "country": "Finland",
+      "iso_a3": "FIN",
+      "value": 1247.49
+    },
+    {
+      "country": "Spain",
+      "iso_a3": "ESP",
+      "value": 1061.84
+    },
+    {
+      "country": "Russian Federation (f)",
+      "iso_a3": "RUS",
+      "value": 969.73
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b7e"
+  },
+  "y_2008": [
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 55149.4
+    },
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 44799.1
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 21408.1
+    },
+    {
+      "country": "India",
+      "iso_a3": "IND",
+      "value": 19028.7
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 17867.4
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 16530.6
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 12450.4
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 9120.98
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 8728.06
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 6022.7
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 5557.23
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 5419.14
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 4983.81
+    },
+    {
+      "country": "United Arab Emirates",
+      "iso_a3": "ARE",
+      "value": 4211.21
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 3683.16
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 3516.33
+    },
+    {
+      "country": "Saudi Arabia",
+      "iso_a3": "SAU",
+      "value": 2596.08
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 2581.97
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 2549.66
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 2504.42
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 2090.38
+    },
+    {
+      "country": "Brazil",
+      "iso_a3": "BRA",
+      "value": 2032.18
+    },
+    {
+      "country": "Vietnam",
+      "iso_a3": "VNM",
+      "value": 1995.21
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 1923.74
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 1780.17
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 1496.07
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 1428.06
+    },
+    {
+      "country": "Russian Federation (f)",
+      "iso_a3": "RUS",
+      "value": 999.054
+    },
+    {
+      "country": "Mexico",
+      "iso_a3": "MEX",
+      "value": 972.88
+    },
+    {
+      "country": "Turkey",
+      "iso_a3": "TUR",
+      "value": 899.673
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b7f"
+  },
+  "y_2009": [
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 52597.1
+    },
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 39009.5
+    },
+    {
+      "country": "India",
+      "iso_a3": "IND",
+      "value": 19926.3
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 18681.6
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 15021
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 11582.3
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 11420.7
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 8064.75
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 7428.4
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 5797.62
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 5570.89
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 4891.81
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 4420.55
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 2900.33
+    },
+    {
+      "country": "United Arab Emirates",
+      "iso_a3": "ARE",
+      "value": 2578.46
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 2562.28
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 2516.65
+    },
+    {
+      "country": "Vietnam",
+      "iso_a3": "VNM",
+      "value": 2380.75
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 2268.55
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 2171.93
+    },
+    {
+      "country": "Saudi Arabia",
+      "iso_a3": "SAU",
+      "value": 1980.22
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 1828.82
+    },
+    {
+      "country": "Brazil",
+      "iso_a3": "BRA",
+      "value": 1802.06
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 1509.29
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 1264.06
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 1219.19
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 1094.02
+    },
+    {
+      "country": "Pakistan",
+      "iso_a3": "PAK",
+      "value": 852.328
+    },
+    {
+      "country": "Russian Federation (f)",
+      "iso_a3": "RUS",
+      "value": 810.843
+    },
+    {
+      "country": "Mexico",
+      "iso_a3": "MEX",
+      "value": 808.72
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b80"
+  },
+  "y_2010": [
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 71485.7
+    },
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 48950.4
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 24583.2
+    },
+    {
+      "country": "India",
+      "iso_a3": "IND",
+      "value": 19077.2
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 14765.8
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 11336.7
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 11099.9
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 9683.99
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 8598.25
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 7963.21
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 6032.03
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 5910.7
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 5087.39
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 3462.09
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 3341.07
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 2888.16
+    },
+    {
+      "country": "Vietnam",
+      "iso_a3": "VNM",
+      "value": 2829.36
+    },
+    {
+      "country": "United Arab Emirates",
+      "iso_a3": "ARE",
+      "value": 2732.26
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 2257.9
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 2065.09
+    },
+    {
+      "country": "Brazil",
+      "iso_a3": "BRA",
+      "value": 1979.17
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 1923.79
+    },
+    {
+      "country": "Saudi Arabia",
+      "iso_a3": "SAU",
+      "value": 1863.79
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 1848.91
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 1624.25
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 1477.56
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 1377.31
+    },
+    {
+      "country": "Spain",
+      "iso_a3": "ESP",
+      "value": 1078.82
+    },
+    {
+      "country": "Russian Federation (f)",
+      "iso_a3": "RUS",
+      "value": 1077.84
+    },
+    {
+      "country": "Mexico",
+      "iso_a3": "MEX",
+      "value": 954.564
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b81"
+  },
+  "y_2011": [
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 80623
+    },
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 53183.3
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 24061.3
+    },
+    {
+      "country": "India",
+      "iso_a3": "IND",
+      "value": 15660.3
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 15577.3
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 12422.8
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 11423.9
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 10001.6
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 9379.29
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 7449.57
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 6905.04
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 6640.34
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 6566.61
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 3921.91
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 3325.86
+    },
+    {
+      "country": "Vietnam",
+      "iso_a3": "VNM",
+      "value": 3061.29
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 3049.6
+    },
+    {
+      "country": "United Arab Emirates",
+      "iso_a3": "ARE",
+      "value": 2696.32
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 2543.33
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 2171.81
+    },
+    {
+      "country": "Saudi Arabia",
+      "iso_a3": "SAU",
+      "value": 2096.98
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 2022.25
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 1886.84
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 1876.94
+    },
+    {
+      "country": "Brazil",
+      "iso_a3": "BRA",
+      "value": 1765.39
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 1556.54
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 1528.44
+    },
+    {
+      "country": "Spain",
+      "iso_a3": "ESP",
+      "value": 1120.72
+    },
+    {
+      "country": "Russian Federation (f)",
+      "iso_a3": "RUS",
+      "value": 1100.46
+    },
+    {
+      "country": "Mexico",
+      "iso_a3": "MEX",
+      "value": 1093.02
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b82"
+  },
+  "y_2012": [
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 79164.3
+    },
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 48540.5
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 21091.6
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 15054.7
+    },
+    {
+      "country": "India",
+      "iso_a3": "IND",
+      "value": 13517.3
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 11057.3
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 10519.5
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 10161.4
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 10127
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 8354.55
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 7056.53
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 6186.5
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 5849.08
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 3330.31
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 3201.34
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 2959.82
+    },
+    {
+      "country": "Vietnam",
+      "iso_a3": "VNM",
+      "value": 2859.86
+    },
+    {
+      "country": "United Arab Emirates",
+      "iso_a3": "ARE",
+      "value": 2835.17
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 2416.73
+    },
+    {
+      "country": "Saudi Arabia",
+      "iso_a3": "SAU",
+      "value": 2380.71
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 2220.77
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 1936.93
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 1799.72
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 1577.67
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 1433.13
+    },
+    {
+      "country": "Brazil",
+      "iso_a3": "BRA",
+      "value": 1213.12
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 1171.07
+    },
+    {
+      "country": "Pakistan",
+      "iso_a3": "PAK",
+      "value": 1060.92
+    },
+    {
+      "country": "Turkey",
+      "iso_a3": "TUR",
+      "value": 909.449
+    },
+    {
+      "country": "Russian Federation (f)",
+      "iso_a3": "RUS",
+      "value": 855.804
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b83"
+  },
+  "y_2013": [
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 99985.8
+    },
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 50972.1
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 22667.7
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 17228.1
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 12989.8
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 11792.8
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 11167.4
+    },
+    {
+      "country": "India",
+      "iso_a3": "IND",
+      "value": 10616.4
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 8392.47
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 8298.64
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 7836.75
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 7098.32
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 5729.34
+    },
+    {
+      "country": "Vietnam",
+      "iso_a3": "VNM",
+      "value": 3980.19
+    },
+    {
+      "country": "United Arab Emirates",
+      "iso_a3": "ARE",
+      "value": 3343.48
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 3082.38
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 2973.84
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 2682.93
+    },
+    {
+      "country": "Saudi Arabia",
+      "iso_a3": "SAU",
+      "value": 2654.87
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 2209.12
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 2172.6
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 2054.51
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 1804.71
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 1696.51
+    },
+    {
+      "country": "Brazil",
+      "iso_a3": "BRA",
+      "value": 1449.5
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 1321.49
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 1249.01
+    },
+    {
+      "country": "Pakistan",
+      "iso_a3": "PAK",
+      "value": 924.758
+    },
+    {
+      "country": "Russian Federation (f)",
+      "iso_a3": "RUS",
+      "value": 904.992
+    },
+    {
+      "country": "Turkey",
+      "iso_a3": "TUR",
+      "value": 849.38
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b84"
+  },
+  "y_2014": [
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 85070.4
+    },
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 46443.7
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 20613.4
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 20528.4
+    },
+    {
+      "country": "India",
+      "iso_a3": "IND",
+      "value": 12939.4
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 12718.4
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 12383.2
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 11500.8
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 9095.18
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 8496.13
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 7906.74
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 7052.96
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 6138.28
+    },
+    {
+      "country": "Vietnam",
+      "iso_a3": "VNM",
+      "value": 4657.31
+    },
+    {
+      "country": "United Arab Emirates",
+      "iso_a3": "ARE",
+      "value": 3977.34
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 2962.17
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 2825.16
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 2616.22
+    },
+    {
+      "country": "Saudi Arabia",
+      "iso_a3": "SAU",
+      "value": 2521.78
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 2418.9
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 2392.35
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 2056.79
+    },
+    {
+      "country": "Brazil",
+      "iso_a3": "BRA",
+      "value": 1968.32
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 1666.82
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 1530.74
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 1357.92
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 1258.07
+    },
+    {
+      "country": "Pakistan",
+      "iso_a3": "PAK",
+      "value": 1089.77
+    },
+    {
+      "country": "Bangladesh",
+      "iso_a3": "BGD",
+      "value": 1012.04
+    },
+    {
+      "country": "Spain",
+      "iso_a3": "ESP",
+      "value": 929.95
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b85"
+  },
+  "y_2015": [
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 87830.1
+    },
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 37974.2
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 21896.2
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 19970.7
+    },
+    {
+      "country": "India",
+      "iso_a3": "IND",
+      "value": 13338.1
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 13161.3
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 12641.4
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 11561.3
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 10070.9
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 7669.59
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 7650.73
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 7028.61
+    },
+    {
+      "country": "Vietnam",
+      "iso_a3": "VNM",
+      "value": 5018.3
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 4708.98
+    },
+    {
+      "country": "United Arab Emirates",
+      "iso_a3": "ARE",
+      "value": 3775.39
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 3748.99
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 2698.84
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 2659.37
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 2484.37
+    },
+    {
+      "country": "Saudi Arabia",
+      "iso_a3": "SAU",
+      "value": 2351.63
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 2154.48
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 2137.52
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 1996.03
+    },
+    {
+      "country": "Brazil",
+      "iso_a3": "BRA",
+      "value": 1725.02
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 1440.63
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 1372.03
+    },
+    {
+      "country": "Pakistan",
+      "iso_a3": "PAK",
+      "value": 1312.8
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 1155.37
+    },
+    {
+      "country": "Bangladesh",
+      "iso_a3": "BGD",
+      "value": 1053.43
+    },
+    {
+      "country": "Nepal",
+      "iso_a3": "NPL",
+      "value": 895.02
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b86"
+  },
+  "y_2016": [
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 110030
+    },
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 44455.8
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 22870.6
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 20694.8
+    },
+    {
+      "country": "India",
+      "iso_a3": "IND",
+      "value": 19270.2
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 15860.9
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 13664.9
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 12753.8
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 11348.9
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 9988.1
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 8438.24
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 8396.46
+    },
+    {
+      "country": "Vietnam",
+      "iso_a3": "VNM",
+      "value": 5747.67
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 5155.35
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 4339.96
+    },
+    {
+      "country": "United Arab Emirates",
+      "iso_a3": "ARE",
+      "value": 3846.66
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 3673.11
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 3217.78
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 2789.53
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 2418.48
+    },
+    {
+      "country": "Brazil",
+      "iso_a3": "BRA",
+      "value": 2395.63
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 2217.79
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 2183.09
+    },
+    {
+      "country": "Saudi Arabia",
+      "iso_a3": "SAU",
+      "value": 1882.49
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 1534.76
+    },
+    {
+      "country": "Pakistan",
+      "iso_a3": "PAK",
+      "value": 1466.08
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 1442.25
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 1422.78
+    },
+    {
+      "country": "Bangladesh",
+      "iso_a3": "BGD",
+      "value": 1354.41
+    },
+    {
+      "country": "Nepal",
+      "iso_a3": "NPL",
+      "value": 1150.8
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b87"
+  },
+  "y_2017": [
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 123604
+    },
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 51256.5
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 23713.2
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 21354.7
+    },
+    {
+      "country": "India",
+      "iso_a3": "IND",
+      "value": 21127.6
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 14458.4
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 14316
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 13129.2
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 11758.7
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 10966.7
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 8926.49
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 8401.41
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 6601.55
+    },
+    {
+      "country": "Vietnam",
+      "iso_a3": "VNM",
+      "value": 6126.41
+    },
+    {
+      "country": "United Arab Emirates",
+      "iso_a3": "ARE",
+      "value": 4356.29
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 4195.91
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 3860.29
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 2861.22
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 2758.79
+    },
+    {
+      "country": "Brazil",
+      "iso_a3": "BRA",
+      "value": 2607.29
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 2479.56
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 2419.76
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 2385.31
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 1979.04
+    },
+    {
+      "country": "Nepal",
+      "iso_a3": "NPL",
+      "value": 1753.64
+    },
+    {
+      "country": "Bangladesh",
+      "iso_a3": "BGD",
+      "value": 1521.14
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 1464.31
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 1243.96
+    },
+    {
+      "country": "Turkey",
+      "iso_a3": "TUR",
+      "value": 1209.6
+    },
+    {
+      "country": "Pakistan",
+      "iso_a3": "PAK",
+      "value": 1200.5
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b88"
+  },
+  "y_2018": [
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 153515
+    },
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 61675.5
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 27838.6
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 24768.6
+    },
+    {
+      "country": "India",
+      "iso_a3": "IND",
+      "value": 22858.4
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 15979.4
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 15333.3
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 13900.9
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 13450.2
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 11550.2
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 10943.7
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 8374.64
+    },
+    {
+      "country": "Vietnam",
+      "iso_a3": "VNM",
+      "value": 7614.46
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 7382.08
+    },
+    {
+      "country": "United Arab Emirates",
+      "iso_a3": "ARE",
+      "value": 4840.57
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 4575.13
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 4410.81
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 3885.68
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 3458.22
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 2984.4
+    },
+    {
+      "country": "Nepal",
+      "iso_a3": "NPL",
+      "value": 2752.78
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 2605.89
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 2574.88
+    },
+    {
+      "country": "Brazil",
+      "iso_a3": "BRA",
+      "value": 2441.75
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 2094.17
+    },
+    {
+      "country": "Ireland",
+      "iso_a3": "IRL",
+      "value": 1585.26
+    },
+    {
+      "country": "Bahrain (b)",
+      "iso_a3": "BHR",
+      "value": 1445.28
+    },
+    {
+      "country": "Italy (e)",
+      "iso_a3": "ITA",
+      "value": 1442.06
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 1333.18
+    },
+    {
+      "country": "Bangladesh",
+      "iso_a3": "BGD",
+      "value": 1312.42
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60829a7566a42adcd46a4b89"
+  },
+  "y_2019": [
+    {
+      "country": "China",
+      "iso_a3": "CHN",
+      "value": 167625
+    },
+    {
+      "country": "Japan",
+      "iso_a3": "JPN",
+      "value": 56161
+    },
+    {
+      "country": "Republic of Korea",
+      "iso_a3": "KOR",
+      "value": 27647.1
+    },
+    {
+      "country": "United States",
+      "iso_a3": "USA",
+      "value": 27403.9
+    },
+    {
+      "country": "United Kingdom",
+      "iso_a3": "GBR",
+      "value": 20950.5
+    },
+    {
+      "country": "India",
+      "iso_a3": "IND",
+      "value": 18617.5
+    },
+    {
+      "country": "Singapore",
+      "iso_a3": "SGP",
+      "value": 17026.4
+    },
+    {
+      "country": "New Zealand",
+      "iso_a3": "NZL",
+      "value": 15681.8
+    },
+    {
+      "country": "Taiwan",
+      "iso_a3": "TWN",
+      "value": 12988.8
+    },
+    {
+      "country": "Malaysia",
+      "iso_a3": "MYS",
+      "value": 10484.1
+    },
+    {
+      "country": "Hong Kong (SAR of China)",
+      "iso_a3": "HKG",
+      "value": 9725.03
+    },
+    {
+      "country": "Vietnam",
+      "iso_a3": "VNM",
+      "value": 8028.4
+    },
+    {
+      "country": "Indonesia",
+      "iso_a3": "IDN",
+      "value": 7903.36
+    },
+    {
+      "country": "Thailand",
+      "iso_a3": "THA",
+      "value": 5265.42
+    },
+    {
+      "country": "Germany",
+      "iso_a3": "DEU",
+      "value": 5043.41
+    },
+    {
+      "country": "Netherlands",
+      "iso_a3": "NLD",
+      "value": 3800.53
+    },
+    {
+      "country": "United Arab Emirates",
+      "iso_a3": "ARE",
+      "value": 3774.7
+    },
+    {
+      "country": "Philippines",
+      "iso_a3": "PHL",
+      "value": 3376.9
+    },
+    {
+      "country": "Canada",
+      "iso_a3": "CAN",
+      "value": 3088
+    },
+    {
+      "country": "Nepal",
+      "iso_a3": "NPL",
+      "value": 3085.97
+    },
+    {
+      "country": "Switzerland (g)",
+      "iso_a3": "CHE",
+      "value": 3070.73
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_a3": "PNG",
+      "value": 2807.67
+    },
+    {
+      "country": "France (d)",
+      "iso_a3": "FRA",
+      "value": 2346.14
+    },
+    {
+      "country": "Brazil",
+      "iso_a3": "BRA",
+      "value": 1937.91
+    },
+    {
+      "country": "Ireland",
+      "iso_a3": "IRL",
+      "value": 1697.1
+    },
+    {
+      "country": "South Africa",
+      "iso_a3": "ZAF",
+      "value": 1585.39
+    },
+    {
+      "country": "Bangladesh",
+      "iso_a3": "BGD",
+      "value": 1449.7
+    },
+    {
+      "country": "Pakistan",
+      "iso_a3": "PAK",
+      "value": 1301.72
+    },
+    {
+      "country": "Saudi Arabia",
+      "iso_a3": "SAU",
+      "value": 1234.09
+    },
+    {
+      "country": "Belgium (c)",
+      "iso_a3": "BEL",
+      "value": 1158.22
+    }
+  ]
+}]
