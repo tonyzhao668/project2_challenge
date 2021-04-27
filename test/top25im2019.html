@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Australia Top 25 Import Commodities</title>
+  <link rel="stylesheet" href="style.css">
+  <!--<link rel="stylesheet" href="static/css/style.css">-->
+</head>
+<body>
+  <div id="my_dataviz"></div>
+  <div class="chart"></div>
+  <div class="container"> 
+    <ul class="nav nav-pills nav-justified">
+      <li class="nav-item">
+        <a class="nav-link" href="#">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Exports</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Imports</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Top 25 Exports</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Top 25 Imports</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">D3 Fun</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Thanks</a>
+      </li>
+    </ul><br>
+  </div>
+  <select id="selectOption">
+    <option value="2015">2015</option>
+    <option value="2016">2016</option>
+    <option value="2017">2017</option>
+    <option value="2018">2018</option>
+    <option value="2019">2019</option>
+  </select>
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/holtzy/D3-graph-gallery@master/LIB/d3-scale-radial.js"></script>
+  <!--<script src="static/js/logic.js"></script>-->
+  <script src="app3.js"></script>
+</body>
+</html>
