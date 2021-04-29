@@ -123,7 +123,7 @@ d3.json("top25exports.json", function(medaData) {
       .attr("x", "600")
       .attr("y", "700")
       .style("font", "50px")
-      // .attr("fill", "")
+      .attr("fill", "")
       .attr("font-weight", 700)
       .classed("mytext", true);
 

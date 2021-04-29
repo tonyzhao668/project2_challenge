@@ -189,7 +189,7 @@ d3.json(exportdata, function(data) {
    }).addTo(myMap);
 //    });
 
-   var legend2 = L.control({ position: "bottomleft" });
+   var legend2 = L.control({ position: "bottomright" });
       legend2.onAdd = function() {
         d3.select("div").selectAll(".leaflet-bottom").exit().remove();
         d3.select("div").selectAll(".leaflet-top").exit().remove();

@@ -123,7 +123,8 @@ d3.json("imports.json", function(medaData) {
     .attr("fill", d => countrycolor[d.iso_a3])
     .classed("mybar", true);
 
-  bars.append("g")
+  // bars.append("g")
+   chartGroup.append("g")
     .attr("fill", "white")
     .attr("text-anchor", "end")
     .attr("font-family", "sans-serif")
@@ -139,17 +140,29 @@ d3.json("imports.json", function(medaData) {
     .text(d => (d.value))
     .classed("mylabel", true);
 
-  // bars.append('g')
-  //   .selectAll("text")
-  //   .data(workingdata)
-  //   .enter()
-  //   .append("text")
-  //   .attr("x", (d) => xLinearScale(d => d.value))
-  //   .attr("y", (d) => yBandScale(d => d.country))
-  //   .classed("text", true)
-  //   .transition()
-  //   .duration(200)
-  //   .text((d) => d.value);
+    // //shadow effect building
+    // var defs = bars.append("defs");  
+    // var filter = defs.append("filter")
+    //   .attr("id", "drop-shadow")
+    //   .attr("height", "130%");
+
+    // filter.append("feGaussianBlur")
+    //   .attr("in", "SourceAlpha")
+    //   .attr("stdDeviation", 3)
+    //   .attr("result", "blur");
+    
+    // filter.append("feOffset")
+    //   .attr("in", "blur")
+    //   .attr("dx", 5)
+    //   .attr("dy", 6)
+    //   .attr("result", "offsetBlur");
+
+    // var feMerge = filter.append("feMerge");
+    //   feMerge.append("feMergeNode")
+    //       .attr("in", "offsetBlur");
+    //   feMerge.append("feMergeNode")
+    //       .attr("in", "SourceGraphic");
+
     
     var labelsGroup = chartGroup.append("g")
         .attr("transform", `translate(${chartWidth * 3 / 5}, ${chartHeight * 6/7})`)
@@ -261,6 +274,10 @@ d3.json("imports.json", function(medaData) {
     
       chartGroup.selectAll(".mylabel")
         .data(currentdata)
+        .transition()
+        .ease(d3.easeLinear)
+        .duration(2000)
+        .delay(function(d,i){return(i*3)})
         .attr("x", d => xnew(d.value))
         .attr("y", d => ynew(d.country) + ynew.bandwidth() / 2)
         .attr("dy", "0.35em")
