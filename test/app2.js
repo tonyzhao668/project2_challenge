@@ -75,6 +75,11 @@ d3.json("top25exports.json", function(medaData) {
     .range([innerRadius, outerRadius])   // Domain will be define later.
     .domain([0, 102870]); // Domain of Y is from 0 to the max seen in the data
 
+  // var myRadialAxis = d3.axisRadialInner(y); 
+
+  // svg.append("g").call(myRadialAxis)
+  //   .classed("myradialaxis", true);;
+
 
   // Add the bars
   chartGroup.append("g")
@@ -180,6 +185,13 @@ d3.selectAll("body").on("change", updatePage); //updatePage is a funtion
       var ynew = d3.scaleRadial()
         .range([innerRadius, outerRadius])   // Domain will be define later.
         .domain([0, d3.max(updatedata.map(d => d.value))]);
+
+        // var myAngleScale = d3.scaleLinear()
+        // .domain([-10, 10])
+        // .range([-Math.PI, Math.PI]);
+        // var myRadius = 100;
+        // var nmyRadialAxis = d3.axisRadialInner(ynew);
+        //     svg.select(".myradialaxis").call(nmyRadialAxis);
 
       chartGroup.selectAll(".mypath")
         .data(updatedata)

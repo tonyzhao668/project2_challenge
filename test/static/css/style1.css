@@ -96,6 +96,8 @@ select {
   position: relative;
   height: 550px;
   padding: 20px;
+  /* scroll-padding-bottom: 200px; */
+  /* vertical-align: text-top; */
   margin: 0;
   background: black;
   background-image: url("tradingpeople.jpg");
