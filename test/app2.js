@@ -51,7 +51,7 @@ var year;
 // Load data from hours-of-tv-watched.csv
 d3.json("top25exports.json", function(medaData) {
 
-    console.log("data loaded");
+    //console.log("data loaded");
     // default year = 2019
 
     data2019 = medaData[4].y_2019;
@@ -136,15 +136,15 @@ d3.json("top25exports.json", function(medaData) {
 //             .attr("transform", `translate(${chartWidth * 3 / 5}, ${chartHeight * 5/7})`);
          
   
-//     labelGroup.append("text")
-//       .attr("x", 0)
-//       .attr("y", 0)
-//       .attr("value", "year") // value to grab for event listener
-//       .classed("active", true)
-//       .text(`Australia Top 25 Export Commodities in: ${year}`)
-//       .style("font-size", "25px")
-//       .attr("font-family", "sans-serif")
-//       .attr("font-weight", 700);
+    // labelGroup.append("text")
+    //   .attr("x", 0)
+    //   .attr("y", 0)
+    //   .attr("value", "year") // value to grab for event listener
+    //   .classed("active", true)
+    //   .text(`Australia Top 25 Export Commodities in: ${year}`)
+    //   .style("font-size", "25px")
+    //   .attr("font-family", "sans-serif")
+    //   .attr("font-weight", 700);
 
   var updatedata;
   var myindex;
@@ -176,6 +176,8 @@ d3.selectAll("body").on("change", updatePage); //updatePage is a funtion
       updatedata.forEach(function(d) {
         d.value = +d.value;
         });
+
+      console.log(updatedata);
       
       var xnew = d3.scaleBand()
         .range([0, 2 * Math.PI])    // X axis goes from 0 to 2pi = all around the circle. If I stop at 1Pi, it will be around a half circle
