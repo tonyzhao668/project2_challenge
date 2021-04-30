@@ -6,8 +6,8 @@ var svgHeight = 660;
 var chartMargin = {
   top: 30,
   right: 30,
-  bottom: 150,
-  left: 150
+  bottom: 170,
+  left: 170
 };
 
 // Define dimensions of the chart area
