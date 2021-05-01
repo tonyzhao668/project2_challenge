@@ -1,114 +1,93 @@
+// Define SVG area dimensions
+var svgWidth = 960;
+var svgHeight = 660;
 
-var expData = "static/data/exports.json";
+// Define the chart's margins as an object
+var chartMargin = {
+  top: 30,
+  right: 50,
+  bottom: 30,
+  left: 100
+};
 
-d3.json("expData", function(error, data) {
-  console.log(data); // this is your data
-});
+// Define dimensions of the chart area
+var chartWidth = svgWidth - chartMargin.left - chartMargin.right;
+var chartHeight = svgHeight - chartMargin.top - chartMargin.bottom;
 
-// getcorlor function
-function getColor() {
-    var letters = '0123456789ABCDEF';
-    var color = '#';
-    for (var i = 0; i < 6; i++) {
-        color += letters[Math.floor(Math.random() * 16)];
-        }
-        return color;
-}
+// Select body, append SVG area to it, and set the dimensions
+var svg = d3.select("body")
+  .append("svg")
+  .attr("height", svgHeight)
+  .attr("width", svgWidth);
 
-// // timer
-// setTimeout(
-//     () => {
-//       console.log('Hello after 4 seconds');
-//     },
-//     4 * 1000
-//   );    
+// Append a group to the SVG area and shift ('translate') it to the right and to the bottom
+var chartGroup = svg.append("g")
+  .attr("transform", `translate(${chartMargin.left}, ${chartMargin.top})`);
 
-// // timer 2
-// const func = () => {
-//     console.log('Hello after 4 seconds');
-//   };
-//   setTimeout(func, 4 * 1000);
+var data2019;
+var datayearcurrent;
+var datayearprepare;
+var workingdata;
 
-// // Creating map object
+var impdata = "static/data/imports.json";
 
-// var myMap = L.map("map", {
-//   center: [34.0522, -118.2437],
-//   zoom: 8
-// });
+// Load data from hours-of-tv-watched.csv
+d3.json(impdata, function(medaData) {
 
-// // Adding tile layer
-// L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
-//   attribution: "© <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> <strong><a href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a></strong>",
-//   tileSize: 512,
-//   maxZoom: 18,
-//   zoomOffset: -1,
-//   id: "mapbox/streets-v11",
-//   accessToken: API_KEY
-// }).addTo(myMap);
+    console.log("data loaded");
 
-// // Load in geojson data
-// var geoData = "static/data/Median_Household_Income_2016.geojson";
+    data2019 = medaData[32].y_2019;
+    Object.values(data2019).forEach(item => { console.log(item.country, item.iso_a3, item.value)});
+    
+    workingdata = data2019;
+      // parse data
+    workingdata.forEach(data => {
+        data.value = +data.value;
+        console.log(data.value);
+      });
 
-// var geojson;
 
-// // Grab data with d3
-// d3.json(geoData, function(data) {
-//   console.log("data loaded");
+}).catch(function(error) {
+        console.log(error)});
 
-//   // Create a new choropleth layer
-//   geojson = L.choropleth(data, {
 
-//     // Define what  property in the features to use
-//     valueProperty: "MHI2016",
+//   // Configure a band scale for the horizontal axis with a padding of 0.1 (10%)
+//   var xBandScale = d3.scaleBand()
+//     .domain(tvData.map(d => d.name))
+//     .range([0, chartWidth])
+//     .padding(0.1);
 
-//     // Set color scale
-//     scale: ["#ffffb2", "#b10026"],
+//   // Create a linear scale for the vertical axis.
+//   var yLinearScale = d3.scaleLinear()
+//     .domain([0, d3.max(tvData, d => d.hours)])
+//     .range([chartHeight,0]);
 
-//     // Number of breaks in step range
-//     steps: 10,
+//   // Create two new functions passing our scales in as arguments
+//   // These will be used to create the chart's axes
+//   var bottomAxis = d3.axisBottom(xBandScale);
+//   var leftAxis = d3.axisLeft(yLinearScale).ticks(10);
 
-//     // q for quartile, e for equidistant, k for k-means
-//     mode: "q",
-//     style: {
-//       // Border color
-//       color: "#fff",
-//       weight: 1,
-//       fillOpacity: 0.8
-//     },
+//   // Append two SVG group elements to the chartGroup area,
+//   // and create the bottom and left axes inside of them
+//   chartGroup.append("g")
+//     .call(leftAxis);
 
-//     // Binding a pop-up to each layer
-//     onEachFeature: function(feature, layer) {
-//       layer.bindPopup("Zip Code: " + feature.properties.ZIP + "<br>Median Household Income:<br>" +
-//         "$" + feature.properties.MHI2016);
-//     }
-//   }).addTo(myMap);
+//   chartGroup.append("g")
+//     .attr("transform", `translate(0, ${chartHeight})`)
+//     .call(bottomAxis);
 
-//   // Set up the legend
-//   var legend = L.control({ position: "bottomright" });
-//   legend.onAdd = function() {
-//     var div = L.DomUtil.create("div", "info legend");
-//     var limits = geojson.options.limits;
-//     var colors = geojson.options.colors;
-//     var labels = [];
+//   // Create one SVG rectangle per piece of tvData
+//   // Use the linear and band scales to position each rectangle within the chart
+//   chartGroup.selectAll(".bar")
+//     .data(tvData)
+//     .enter()
+//     .append("rect")
+//     .attr("class", "bar")
+//     .attr("x", d => xBandScale(d.name))
+//     .attr("y", d => yLinearScale(d.hours))
+//     .attr("width", xBandScale.bandwidth())
+//     .attr("height", d => chartHeight - yLinearScale(d.hours));
 
-//     // Add min & max
-//     var legendInfo = "<h1>Median Income</h1>" +
-//       "<div class=\"labels\">" +
-//         "<div class=\"min\">" + limits[0] + "</div>" +
-//         "<div class=\"max\">" + limits[limits.length - 1] + "</div>" +
-//       "</div>";
+// }).catch(function(error) {
+//   console.log(error)});
 
-//     div.innerHTML = legendInfo;
-
-//     limits.forEach(function(limit, index) {
-//       labels.push("<li style=\"background-color: " + colors[index] + "\"></li>");
-//     });
-
-//     div.innerHTML += "<ul>" + labels.join("") + "</ul>";
-//     return div;
-//   };
-
-//   // Adding legend to the map
-//   legend.addTo(myMap);
-
-// });

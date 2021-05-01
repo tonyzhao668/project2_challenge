@@ -1,37 +1,79 @@
 <!DOCTYPE html>
-<html lang="en-us">
-  <head>
-    <meta charset="UTF-8">
-    <title>Export Destinations</title>
+<html>
 
-    <!-- Leaflet CSS -->
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
-    integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
-    crossorigin=""/>
+<head>
+  <meta charset="utf-8">
+  <title>Australia Internation Trading Report</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/superhero/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+  <link rel="stylesheet" href="static/css/style1.css">
+</head>
 
-    <!-- Our CSS -->
-    <link rel="stylesheet" type="text/css" href="static/css/style.css">
+<body>
+  <div class="wrapper">
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <!-- <div class="navbar-header">
+          <a class="navbar-brand" href="index.html">Australia International Trading
+            <a class="navbar-brand" >Australia International Trading 
+            
+          </a>
+        </div> -->
+      </div>
+    </nav>
+    <div class="hero text-top">
+      <h1>Australia International Trading</h1>
+      <h3>Data Visualization</h3>
+    </div>
 
-  </head>
-  <body>
+    <div class="container"> 
+      <ul class="nav nav-pills nav-justified">
+        <li class="nav-item">
+          <a class="nav-link" href="index.html">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="ex2019.html">Exports</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="im2019.html">Imports</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="top25ex2019.html">Top 25 Exports</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="top25ex2019.html">Top 25 Imports</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="indexfun.html">D3 Fun</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="indexfun2.html">D3 Fun2</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="indexbyebye.html">Thanks</a>
+        </li>
+      </ul><br>
+    </div>
 
-    <!-- The div where we will inject our map -->
-    <div id="map"></div>
 
+    <div class="container">
+      <div class="row margin-top-50">
+        <div class="col-md-2">
+          
+        </div>
+        <div class="col-md-10">
+          
+        </div>
+      </div>
+    </div>
+    <footer class="footer">
+      <span class="bottom">Australia International Trading</span>
+    </footer>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+<!-- <script src="static/js/data.js"></script>
+  <script src="static/js/app.js"></script>-->
+</body>
 
-    <!-- Leaflet JS-->
-    <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
-    integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
-    crossorigin=""></script>
-    <!-- d3 JavaScript -->
-    <script src="https://d3js.org/d3.v4.min.js"></script>
-
-    <!-- Leaflet-Choropleth JavaScript -->
-    <script type="text/javascript" src="static/js/choropleth.js"></script>
-
-    <!-- Our JS -->
-    <script type="text/javascript" src="static/js/config.js"></script>
-    <script type="text/javascript" src="static/js/logic.js"></script>
-
-  </body>
 </html>

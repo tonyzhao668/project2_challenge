@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Australia Top 25 Export Commodities</title>
+  <link rel="stylesheet" href="style.css">
+  <!--<link rel="stylesheet" href="static/css/style.css">-->
+</head>
+<body>
+
+  <select id="selectOption">
+    <option value="2015">2015</option>
+    <option value="2016">2016</option>
+    <option value="2017">2017</option>
+    <option value="2018">2018</option>
+    <option value="2019">2019</option>
+  </select>
+
+  <div id="my_dataviz"></div>
+  <div class="container"> 
+    <ul class="nav nav-pills nav-justified">
+      <li class="nav-item">
+        <a class="nav-link" href="index.html">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="ex2019.html">Exports</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="im2019.html">Imports</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="top25ex2019.html">Top 25 Exports</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="top25im2019.html">Top 25 Imports</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="indexfun.html">D3 Fun</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="indexfun2.html">D3 Fun2</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="indexbyebye.html">Thanks</a>
+      </li>
+    </ul><br>
+  </div>
+  
+  <div class="chart"></div>
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/holtzy/D3-graph-gallery@master/LIB/d3-scale-radial.js"></script>
+  <!--<script src="static/js/logic.js"></script>-->
+  <script src="app2.js"></script>
+</body>
+</html>
