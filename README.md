@@ -11,7 +11,9 @@
 ### Final HTML and screenshots:
 
 **Home Page:**
-![Home Page](images/Capture.PNG)
+![Home Page](images/home.GIF)
+
+**
            
 ### Data Source: 
 
