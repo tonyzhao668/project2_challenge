@@ -11,7 +11,7 @@
 ### Final HTML and screenshots:
 
 **Home Page:**
-![Home Page](images/home.GIF)
+![Home Page](images/home.gif)
 
 **
            
