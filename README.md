@@ -1,8 +1,6 @@
 # project2_challenge
 
-## Proposal for the Project 2
-
-## Tony Zhao /DBC-UWA  17/04/2021
+## Tony Zhao 17/04/2021
 
 ### Data Story: 
 * Time Series Data visualization for Australian International trade,
